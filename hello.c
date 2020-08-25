@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- *         cbourke@cse.unl.edu
+ * Author: Jehron Soto
+ *         jsoto7@huskers.unl.edu
  * Date: 2020/03/26
  *
  * A simple hello world program in C
@@ -13,6 +13,8 @@ int main(int argc, char **argv) {
 
   printf("Jehron Soto!\n");
   printf("Computer Science and Mathematics\n");
+  printf("Malaki Mileg!\n");
+  printf("Computer Science\n");
 
   return 0;
 }
